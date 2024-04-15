@@ -19,9 +19,10 @@ list_of_files = [
     "config/config.yml",
     "dvc.yaml",
     "params.yaml",
-    "reuirements.txt",
+    "requirements.txt",
     "setup.py",
-    "research/trials.ipynb"
+    "research/trials.ipynb",
+    "templates/index.html"
 ]
 
 for filepath in list_of_files:
