@@ -1,5 +1,8 @@
 Chicken Disease Classification Project - DL
 
+end to end Deep LEarning project using MLops tools such as DVC along with the deploymeny using giithub action in both azure and aws cloud
+
+
  - Github setup
  - project template creation
  - project setup and requirements installation
